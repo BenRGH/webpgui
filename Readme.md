@@ -4,6 +4,8 @@
 
 WebP and the compiler used here (cwebp) belong to Google and I in no way claim to have developed or plan on selling it as my own, find their [software licence](https://www.webmproject.org/license/software/) below.
 
+![example](example.webp)
+
 ## WebM Project Software License
 
 Copyright (c) 2010, Google Inc. All rights reserved.
